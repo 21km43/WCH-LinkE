@@ -2,7 +2,7 @@
 
 This project is compatible with WCH-LinkE.
 
-Boards is optimized for [JLCPCB](https://jlcpcb.com) (includes gerber, bom, cpl, and tooling holes). All components except the CH32V305, USB-C Connector, 3.3V LDO, and Tactile switches are Basic Parts.
+Boards is optimized for [JLCPCB](https://jlcpcb.com) (includes gerber, bom, cpl, and tooling holes). All components except the CH32V305, USB-C Connector, and 3.3V LDO are Basic Parts.
 
 ## Requirements
 * [KiCAD 9.0](https://www.kicad.org/)
